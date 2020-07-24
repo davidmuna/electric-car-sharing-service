@@ -1,4 +1,4 @@
-# A Data Analysis and Report for an electric-car-sharing-service, Friday, July 24th 2020.
+# A Data Analysis and Report for an Electric Car-Sharing Sservice, Friday, July 24th 2020.
 
 By David Muna Mwangi
 
